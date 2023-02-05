@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Ahmad Alsebai!
+
+I'm a mechanical engineer turned application engineer for automobile technology at Jetter AG, located near Stuttgart. With a background in mechanical engineering, I have expanded my skillset to include software programming for embedded systems and automation control. I am always eager to learn new things and stay up to date with the latest technology.
+
+In addition to my work, I am passionate about technology and have completed a Master's degree in Mechatronics (Cyber Physical System) from Debrecen University in Hungary.
+
+I'm excited to share my projects and collaborate with others in the Github community.
+
 
 <!--
 **AhmadAlsebai/ahmadalsebai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
