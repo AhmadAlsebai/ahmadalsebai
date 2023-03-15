@@ -1,10 +1,21 @@
 # Hi, I'm Ahmad Alsebai!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadAlsebai&label=Profile%20views&color=0e75b6&style=flat" alt="AhmadAlsebai" /> </p>
+
 I'm a mechanical engineer turned application engineer for automobile technology at Jetter AG, located near Stuttgart. With a background in mechanical engineering, I have expanded my skillset to include software programming for embedded systems and automation control. I am always eager to learn new things and stay up to date with the latest technology.
 
 In addition to my work, I am passionate about technology and have completed a Master's degree in Mechatronics (Cyber Physical System) from Debrecen University in Hungary.
 
 I'm excited to share my projects and collaborate with others in the Github community.
+<!--
+<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlsebai&show_icons=true&locale=en&layout=compact" alt="AhmadAlsebai" /></p>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlsebai&show_icons=true&locale=en&layout=compact)-->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlsebai&show_icons=true&locale=en" alt="AhmadAlsebai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlsebai&" alt="melvinasare1" /></p>
+
 
 
 <!--
@@ -20,4 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+AhmadAlsebai
+
 -->
