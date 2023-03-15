@@ -22,6 +22,9 @@ I'm excited to share my projects and collaborate with others in the Github commu
 <p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlsebai&show_icons=true&locale=en&layout=compact" alt="AhmadAlsebai" /></p>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlsebai&show_icons=true&locale=en&layout=compact) -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmadAlsebai" alt="AhmadAlsebai" /></a> </p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlsebai&show_icons=true&locale=en" alt="AhmadAlsebai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlsebai&" alt="melvinasare1" /></p>
