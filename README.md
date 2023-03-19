@@ -25,9 +25,9 @@ I'm excited to share my projects and collaborate with others in the Github commu
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmadAlsebai&theme=algolia" alt="AhmadAlsebai" /></a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlsebai&show_icons=true&locale=en" alt="AhmadAlsebai" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlsebai&show_icons=true&locale=en" alt="AhmadAlsebai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlsebai&" alt="melvinasare1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlsebai&" alt="AhmadAlsebai" /></p>
 
 
 
