@@ -28,12 +28,12 @@ I'm excited to share my projects and collaborate with others in the Github commu
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlsebai&show_icons=true&locale=en" alt="AhmadAlsebai" /></p>
 
-# <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlsebai&" alt="AhmadAlsebai" /></p>
 
 
 
 <!--
 **AhmadAlsebai/ahmadalsebai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlsebai&" alt="AhmadAlsebai" /></p>
 
 Here are some ideas to get you started:
 
